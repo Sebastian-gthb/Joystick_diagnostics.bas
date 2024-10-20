@@ -1,5 +1,5 @@
 # Joystick_diagnostics.bas
-My two Tools to test and diagnose the Joystick from 20th June 1994.
+My two Tools written with QBasic to test and diagnose the Joystick from 20th June 1994.
 
 With the JOYGRAPH.bas you have 4 graphs for each axis (x and y from port a and b) and you can see which button is pressed.
 
